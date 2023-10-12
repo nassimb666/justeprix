@@ -1,7 +1,9 @@
-html, body {
+html,
+body {
   min-width: 500px;
 }
-body{
+
+body {
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -34,17 +36,17 @@ header {
 
 img {
   width: 20rem;
-  justify-content:center;
+  justify-content: center;
 }
 
-#boom{
+#boom {
   display: none;
 }
 
-#more{
+#more {
   display: none;
 }
 
-#less{
+#less {
   display: none;
 }
