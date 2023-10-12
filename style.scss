@@ -1,0 +1,35 @@
+body,html {
+  min-width: 500px;
+}
+
+img {
+  width: 10rem;
+  justify-content: center; /* La propriété "justify-content" ne s'applique généralement pas aux éléments "img". Vous voudrez peut-être utiliser cette propriété sur un conteneur pour centrer l'image. */
+}
+
+header {
+  color: #ff7315;
+  text-align: center;
+  font-size: 3em;
+}
+
+.instruction {
+  padding: 15px;
+  margin: 10px 0;
+}
+
+.plus {
+  background-color: #f67280;
+}
+
+.moins {
+  background-color: #ffa372;
+}
+
+.fini {
+  background-color: #0c9463;
+}
+
+.img{
+  border: black 5px;
+}
